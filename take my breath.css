@@ -1,0 +1,19 @@
+body{
+background-color: rgb(0, 38, 255);
+font-family:'Staatliches', cursive;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+gap: 10px;
+}
+
+.google-font{
+    font-family: 'Staatliches', cursive;}
+
+h1{
+    font-size: 30px;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
